@@ -5,7 +5,7 @@
   <br>
 ## Projeto no ar:
 
-  https://s4mu3l-silv4.github.io/projeto-portifolio/home.html
+  https://github.com/S4mu3l-Silv4/projeto-sistema-controle
   <br>
   <br>
 ## Tecnologias utilizadas:
