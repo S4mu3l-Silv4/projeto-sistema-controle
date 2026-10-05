@@ -1,6 +1,6 @@
 # Projeto Sistema de Controle:
 
-  Este projeto foi desenvolvido como um aprimoramento pessoal, objetivando praticar e demonstrar as minhas habilidades em front e back-end.
+  Este projeto foi desenvolvido como um aprimoramento pessoal, objetivando praticar e demonstrar as minhas habilidades na área Full-Stack.
   <br>
   <br>
 ## Projeto no ar:
